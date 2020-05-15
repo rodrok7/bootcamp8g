@@ -1,0 +1,36 @@
+*{
+    color: peru;
+    
+}
+p{
+    text-transform: uppercase;
+}
+#some-id{
+    
+    
+
+}
+.some-class{
+
+    
+
+}
+ul{
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+}
+
+li{
+    border: 1px solid red;
+    list-style:none;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px
+
+
+
+}
+#first-li{
+    text-transform: uppercase;
+    color:magenta;
+}

@@ -1,0 +1,27 @@
+*{
+    color: black;
+    font-style: oblique;
+}
+#page-heading{
+   
+    background-color: mediumturquoise;
+    border:5px solid rgb(214, 25, 142);
+    width:800px;
+    height:100px;
+    text-decoration: underline;
+    text-align: justify;
+    
+   
+}
+
+#section1{
+    background-color: lightskyblue;
+    box-sizing: border-box;
+    width: 400px;
+    height: 100px;
+} 
+
+
+
+
+
